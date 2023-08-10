@@ -6,7 +6,7 @@ Hi 👋, I'm Debangshu<br>As an aspiring Fullstack Developer, I offer a strong f
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NnCJETfzrTH0bCB9k5uIwJi9XWM6Lf2j/view?usp=drive_link](https://drive.google.com/file/d/1NnCJETfzrTH0bCB9k5uIwJi9XWM6Lf2j/view?usp=drive_link)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/debangshu-batabyal-3150831b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debangshu-batabyal-3150831b5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/debangshu_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debangshu_02" height="30" width="40" /></a>
